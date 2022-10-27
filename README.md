@@ -1,8 +1,8 @@
-# news_app
+# News app
 
 # This is flutter app using API
 
-This app contains dark and light theme
+## This app contains dark and light theme
 
 This app consists of three pages :
 - Business 
